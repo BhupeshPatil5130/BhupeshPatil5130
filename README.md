@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [E-commerce](https://e-commerce-omega-ruby.vercel.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **React,html,css,Javascript**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **bhupeshsabe123@gmail.com**
 
