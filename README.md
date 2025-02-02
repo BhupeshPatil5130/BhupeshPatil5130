@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupeshpatil5130&label=Profile%20views&color=0e75b6&style=flat" alt="bhupeshpatil5130" /> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://e-commerce-omega-ruby.vercel.app/)
+- 🔭 I’m currently working on DSA
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m  learning **DSA**
 
 - 💬 Ask me about **MERN Stack**
 
