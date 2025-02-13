@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **bhupeshsabe123@gmail.com**
 
-- 📄 Know about my experiences [loading](loading)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/posts/bhupesh-patil-0799ab293_as-part-of-my-internship-in-java-programming-activity-7222229011773456386-9z7z?utm_source=share&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/posts/bhupesh-patil-0799ab293_as-part-of-my-internship-in-java-programming-activity-7222229011773456386-9z7z?utm_source=share&utm_medium=member_android" height="30" width="40" /></a>
